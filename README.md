@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharunmarsh
-- 👀 I’m interested in study about cokmputer science
+- 👀 I’m interested in study about computer science
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me onum venam
